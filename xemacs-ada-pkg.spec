@@ -3,7 +3,7 @@ Summary(pl):	Obs³uga jêzyka Ada
 Name:		xemacs-ada-pkg
 %define 	srcname	ada
 Version:	1.14
-Release:	1
+Release:	2
 License:	GPL
 Group:		Applications/Editors/Emacs
 Source0:	ftp://ftp.xemacs.org/packages/%{srcname}-%{version}-pkg.tar.gz
