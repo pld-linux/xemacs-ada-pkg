@@ -1,11 +1,12 @@
 Summary:	Ada language support
-Summary(pl):	Ada language support
+Summary(pl):	Obs³uga jêzyka Ada
 Name:		xemacs-ada-pkg
 %define 	srcname	ada
 Version:	1.10
-Release:	1
+Release:	2
 License:	GPL
 Group:		Applications/Editors/Emacs
+Group(de):	Applikationen/Editors/Emacs
 Group(pl):	Aplikacje/Edytory/Emacs
 Source0:	ftp://ftp.xemacs.org/packages/%{srcname}-%{version}-pkg.tar.gz
 URL:		http://www.xemacs.org/
@@ -15,8 +16,10 @@ Requires:	xemacs
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
+Ada language support.
 
 %description -l pl 
+Obs³uga jêzyka Ada.
 
 %prep
 %setup -q -c
