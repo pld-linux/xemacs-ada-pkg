@@ -2,7 +2,7 @@ Summary:	Ada language support
 Summary(pl):	Ada language support
 Name:		xemacs-ada-pkg
 %define 	srcname	ada
-Version:	1.08
+Version:	1.10
 Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
