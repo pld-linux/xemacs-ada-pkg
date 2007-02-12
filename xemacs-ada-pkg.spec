@@ -1,5 +1,5 @@
 Summary:	Ada language support
-Summary(pl.UTF-8):   Obsługa języka Ada
+Summary(pl.UTF-8):	Obsługa języka Ada
 Name:		xemacs-ada-pkg
 %define 	srcname	ada
 Version:	1.14
