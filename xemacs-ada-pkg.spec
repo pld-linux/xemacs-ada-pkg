@@ -1,5 +1,5 @@
 Summary:	Ada language support
-Summary(pl):	Obs³uga jêzyka Ada
+Summary(pl.UTF-8):   ObsÅ‚uga jÄ™zyka Ada
 Name:		xemacs-ada-pkg
 %define 	srcname	ada
 Version:	1.14
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Ada language support.
 
-%description -l pl
-Obs³uga jêzyka Ada.
+%description -l pl.UTF-8
+ObsÅ‚uga jÄ™zyka Ada.
 
 %prep
 %setup -q -c
