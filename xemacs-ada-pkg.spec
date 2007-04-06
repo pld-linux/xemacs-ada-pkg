@@ -6,7 +6,7 @@ Version:	1.14
 Release:	2
 License:	GPL
 Group:		Applications/Editors/Emacs
-Source0:	ftp://ftp.xemacs.org/packages/%{srcname}-%{version}-pkg.tar.gz
+Source0:	http://ftp.xemacs.org/packages/%{srcname}-%{version}-pkg.tar.gz
 # Source0-md5:	f2635d2b432f2a7cd456df760d622e3c
 URL:		http://www.xemacs.org/
 BuildArch:	noarch
